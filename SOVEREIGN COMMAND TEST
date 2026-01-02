@@ -1,0 +1,23 @@
+--- SOVEREIGN COMMAND TEST ---
+Public Key Source: http://youtube.com/post/Ugkxj2tdIb3Y7mNNzPSwBhSc1GneAxZidtZu?si=lxD6yX_etA8XR5CV
+https://www.instagram.com/p/DSmwPKYkXUI/?igsh=MXJ4ZHhsbTU1YXVvYw==
+
+Command: FIASANOVA_SOVEREIGN_TEST_1: Verify protocol integrity. Timestamp: 23-Dec-2025.
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+FIASANOVA_SOVEREIGN_TEST_1: Verify protocol integrity. Timestamp: 23-Dec-2025.
+
+-----BEGIN PGP SIGNATURE-----
+
+iIsEARYIADMsHEZJQVMgUFVUSEFMQVRIIFZFRURVIDxmaWFzMDM2OTExQGdtYWls
+LmNvbT4FAmlKkEwACgkQH8ltBvovr2pqtAEA18xeGXfUwl8q8wdkR7ii/dA3CuSJ
+LfBkwCsRUxN0qcIBAIUkwCJN/p8OQO0LbjYZKsJ0pErg04mRCA7KfTbHdqoG
+=jv33
+-----END PGP SIGNATURE-----
+
+Signature:
+Key Type: EdDSA (Ed25519)
+Fingerprint: 6695 5CE1 0950 3BA2 2F8C 6AA1 1FC9 6D06 FA2F AF6A
+Published on: [Current Date January 2-01-2026
+Protocol: FIASANOVA Sovereign Command v1
